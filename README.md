@@ -8,8 +8,8 @@ This repository is for developing quantum neural network models for fitting one-
 
 After training the quantum neural network learns to smooth the noisy cosine function as can be seen in the green plots:
 
-![alt text]('noisy_cosine_trained.png')
+![alt text](noisy_cosine_trained.png)
 
 We also provide an example model trained on data from the ```.csv``` file on [Australian pharmaceutical company sales data](https://raw.githubusercontent.com/selva86/datasets/master/a10.csv). 
 
-![alt text]("drug_sales.png")
+![alt text](drug_sales.png)
