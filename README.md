@@ -121,3 +121,5 @@ After training the quantum neural network learns to smooth the noisy cosine func
 We also provide an example model trained on data from the ```.csv``` file on [Australian pharmaceutical company sales data](https://raw.githubusercontent.com/selva86/datasets/master/a10.csv). 
 
 ![alt text](drug_sales.png)
+
+On this data we train a 4-layer quantum neural network, for 200 iterations and with smaller learning rate. The weights are again randomly initialized and so results of running an identical model with new random initial weights will of course vary in general. 
