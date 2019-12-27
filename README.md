@@ -1,7 +1,7 @@
 # FinTech-Time-Series
-Quantum Machine Learning for FinTech and Time Series Data
+Quantum Machine Learning for [FinTech](https://towardsdatascience.com/ten-applications-of-ai-to-fintech-22d626c2fdac) and Time Series Data
 
-## Quantum Neural Networks for FinTech Time Series Function Fitting
+## [Quantum Neural Networks for FinTech](https://fintechcircle.com/insights/quantum-machine-learning/) Time Series Function Fitting
 This repository is for developing quantum neural network models for fitting one-dimensional time series data and noisy signals. It is modified from the model presented in PennyLane [Function fitting with a quantum neural network](https://pennylane.ai/qml/app/quantum_neural_net.html). We modify the code presented in the default notebook downloaded from PennyLane so that it works using synthetic data created by the user, and we train a model on several years worth of drug sales data. 
 
 ![alt text](noisy_sine.png)
@@ -117,4 +117,5 @@ After training the quantum neural network learns to smooth the noisy sine functi
 
 ![alt text](noisy_sine_trained.png)
 
+In later examples of applications of quantum machine learning to FinTech, we will also be investigating quantum walks. [Quantum walks](https://fintechcircle.com/insights/quantum-machine-learning/) are a quantum analogue to random walks and have substantially reduced the time-consumption in Monte Carlo simulations for mixing of Markov chains as reported by Ashley Montanaro (2015). These quantum algorithms are applied for investment strategies in wealth management and trading.
 
