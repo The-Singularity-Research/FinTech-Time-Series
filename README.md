@@ -117,4 +117,7 @@ After training the quantum neural network learns to smooth the noisy sine functi
 
 ![alt text](noisy_sine_trained.png)
 
+## Optical Quantum Computing
+This example illustrates an implementation of optical quantum computing and training an optical based quantum neural network. For more information on photonic quantum computing see the [Strawberry Fields documentation](https://arxiv.org/abs/1804.03159).
+
 In later examples of applications of quantum machine learning to FinTech, we will also be investigating [quantum walks](https://link.medium.com/ZsbIWYMAL2). [Quantum walks](https://fintechcircle.com/insights/quantum-machine-learning/) are a quantum analogue to random walks and have substantially reduced the time-consumption in Monte Carlo simulations for mixing of Markov chains as reported by Ashley Montanaro (2015). [These quantum algorithms](https://advances.sciencemag.org/content/4/5/eaat3174.full) are applied for investment strategies in wealth management and trading.
